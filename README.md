@@ -23,7 +23,7 @@ This app designed to work with backend services. Make sure you install and runin
 1. Starting the app;
     `npm start
 
-2. Go to `http://localhost:3005`
+2. Go to `http://localhost:3000`
 3. Search the key value and click the search button
 4. Images will be displayed in a grid
 
