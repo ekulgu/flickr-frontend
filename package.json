@@ -1,6 +1,5 @@
 {
   "name": "flickr-frontend",
-  "homepage": "https://ekulgu.github.io//buzz-solutions-test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
